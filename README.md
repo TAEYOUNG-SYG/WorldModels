@@ -6,6 +6,9 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 - Autonomous Driving
 - LLM Agent (planning, task solving)
 
+### Tutorial
+- Language Models meet World Models, NeurIPS 2023, [[Link]](https://sites.google.com/view/neurips2023law)
+
 #### 2023
 - LanGWM: Language Grounded World Model, [[Paper]](https://arxiv.org/abs/2311.17593)
 
