@@ -10,9 +10,13 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 - Language Models meet World Models, NeurIPS 2023, [[Link]](https://sites.google.com/view/neurips2023law)
 
 #### 2023
+- Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning, [[Paper]](https://arxiv.org/abs/2312.05230)
+
 - LanGWM: Language Grounded World Model, [[Paper]](https://arxiv.org/abs/2311.17593)
 
 - ADriver-I: A General World Model for Autonomous Driving, [[Paper]](https://arxiv.org/abs/2311.13549)
+
+- TD-MPC2: Scalable, Robust World Models for Continuous Control, [[Paper]](https://arxiv.org/abs/2310.16828v1), [[Porject]](https://nicklashansen.github.io/td-mpc2/)
 
 - JARVIS-1 Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models, [[Paper]](https://arxiv.org/abs/2311.05997), [[Project]](https://github.com/CraftJarvis/JARVIS-1)
 
@@ -30,6 +34,8 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 
 - Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization, [[Paper]](https://arxiv.org/abs/2308.02151)
 
+- Dreamwalker: Mental planning for continuous vision-language navigation, [[Paper]](https://arxiv.org/abs/2308.07498)
+
 - Learning to Model the World with Language, [[Paper]](https://arxiv.org/abs/2308.01399), [[Project]](https://github.com/jlin816/dynalang)
 
 - MC-JEPA A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features, [[Paper]](https://arxiv.org/abs/2307.12698)
@@ -39,6 +45,10 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 - Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning, [[Paper]](https://arxiv.org/abs/2305.18499), [[Project]](https://github.com/thuml/ContextWM)
 
 - Large Language Models as Commonsense Knowledge for Large-Scale Task Planning, [[Paper]](https://arxiv.org/abs/2305.14078)
+
+- Learning World Models with Identifiable Factorization, [[Paper]](https://arxiv.org/abs/2306.06561v2)
+
+- Go Beyond Imagination: Maximizing Episodic Reachability with World Models, [[Paper]](https://proceedings.mlr.press/v202/fu23c.html)
 
 - Voyager An Open-Ended Embodied Agent with Large Language Models, [[Paper]](https://arxiv.org/abs/2305.16291), [[Project]](https://voyager.minedojo.org/)
 
@@ -64,13 +74,19 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 
 - Deep learning, reinforcement learning, and world models, [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608022001150)
 
+- Mind's Eye: Grounded Language Model Reasoning through Simulation, [[Paper]](https://arxiv.org/abs/2210.05359v1)
+
 - DayDreamer World Models for Physical Robot Learning, [[Paper]](https://arxiv.org/abs/2206.14176), [[Project]](https://github.com/danijar/daydreamer)
+
+- Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task, [[Paper]](https://arxiv.org/abs/2210.13382), [[Project]](https://github.com/likenneth/othello_world)
 
 - Masked World Models for Visual Control, [[Paper]](https://arxiv.org/abs/2206.14244), [[Project]](https://github.com/younggyoseo/MWM)
 
 - A Path Towards Autonomous Machine Intelligence, [[Paper]](https://openreview.net/pdf?id=BZ5a1r-kVsf)
 
 - video pretraining (vpt) learning to act by watching unlabeled online videos, [[Paper]](https://arxiv.org/abs/2206.11795), [[Project]](https://github.com/openai/Video-Pre-Training)
+
+- A generalist agent, [[Paper]](https://arxiv.org/abs/2205.06175)
 
 - MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge, [[Paper]](https://arxiv.org/abs/2206.08853), [[Project]](https://minedojo.org/)
 
@@ -86,11 +102,17 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 
 - Pathdreamer: A World Model for Indoor Navigation, [[Paper]](https://arxiv.org/abs/2105.08756), [[Project]](https://github.com/google-research/pathdreamer)
 
+- World model learning and inference, [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608021003610)
+
 #### 2020
 
 - Mastering Atari with Discrete World Models, [[Paper]](https://arxiv.org/abs/2010.02193), [[Project]](https://github.com/danijar/dreamerv2)
 
+- Active World Model Learning with Progress Curiosity, [[Paper]](https://arxiv.org/abs/2007.07853)
+
 ### 2019
+
+- Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting, [[Paper]](https://arxiv.org/abs/1910.03650)
 
 - Learning Latent Dynamics for Planning from Pixels, [[Paper]](https://arxiv.org/abs/1811.04551), [[Project]](https://planetrl.github.io/)
 
@@ -104,3 +126,23 @@ Papers on World Model related topics (still updating). Since I'm not an expert i
 
 - World Models, [[Paper]](https://arxiv.org/abs/1803.10122), [[Project]](https://worldmodels.github.io/)
 
+### Related Survey
+
+- Foundation models for decision making: Problems, methods, and opportunities, 2023, [[Paper]](https://arxiv.org/abs/2303.04129)
+
+- The rise and potential of large language model based agents: A survey, 2023, [[Paper]](https://arxiv.org/abs/2309.07864)
+
+- A Survey on Model-based Reinforcement Learning, 2022, [[Paper]](https://arxiv.org/abs/2206.09328v1)
+
+- Understanding the world through action, 2021, [[Paper]](https://arxiv.org/abs/2110.12543)
+
+- Model-based Reinforcement Learning: A Survey, 2020, [[Paper]](https://arxiv.org/abs/2006.16712v4)
+
+
+### Others
+
+- Mental World, [[wiki]](https://en.wikipedia.org/wiki/Mental_model)
+
+- 世界模型(World Models)，知乎文章， [[link]](https://zhuanlan.zhihu.com/p/661965660)
+
+- 通往具身通用智能：如何让机器从自然模态中学习到世界模型？[[link]](https://mp.weixin.qq.com/s/-8B8prYfxkW4Akflta51BQ)
